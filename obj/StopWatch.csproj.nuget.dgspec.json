@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\msedu\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\msedu\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "c:\\Users\\msedu\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\msedu\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\msedu\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\msedu\\StopWatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "c:\\Users\\msedu\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\msedu\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\msedu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\msedu\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\msedu\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msedu\\AppData\\Roaming\\NuGet\\NuGet.Config"
